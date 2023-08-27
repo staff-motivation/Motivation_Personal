@@ -5,5 +5,5 @@
 	path = backend_develop
 	url = git@github.com:black-water715/backend_develop.git
 [submodule "frontend-new"]
-	path = frontend-new
-	url = https://github.com/AnnaKharatova/staff-motivation.git
+	path = frontend_new
+	url = git@github.com:AnnaKharatova/staff-motivation.git
