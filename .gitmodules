@@ -4,3 +4,6 @@
 [submodule "backend_develop"]
 	path = backend_develop
 	url = git@github.com:black-water715/backend_develop.git
+[submodule "frontend-test"]
+	path = frontend-test
+	url = https://github.com/AnnaKharatova/staff-motivation.git
