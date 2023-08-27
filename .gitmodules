@@ -7,3 +7,6 @@
 [submodule "frontend-new"]
 	path = frontend_new
 	url = git@github.com:AnnaKharatova/staff-motivation.git
+[submodule "frontend_new"]
+	path = frontend_new
+	url = git@github.com:AnnaKharatova/staff-motivation.git
