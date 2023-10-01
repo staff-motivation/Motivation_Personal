@@ -3,7 +3,7 @@
 	url = git@github.com:MarinaKrasnov/staff-motivation.git
 [submodule "backend_develop"]
 	path = backend_develop
-	url = git@github.com:black-water715/backend_develop.git
+	url = git@github.com:8Vadim8/motivation_system.git
 [submodule "frontend_new"]
 	path = frontend_new
 	url = git@github.com:AnnaKharatova/staff-motivation.git
