@@ -1,3 +1,6 @@
 [submodule "frontend_new"]
 	path = frontend_new
 	url = git@github.com:AnnaKharatova/staff-motivation.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:staff-motivation/backend.git
